@@ -1,0 +1,39 @@
+body{
+  background-color: darkslategrey;
+  font-family: 'Josefin Sans', sans-serif;
+}
+h1{
+  color: white;
+  font-family: 'Lobster', cursive;
+  font-size: 300%
+}
+p{
+  color: white;
+}
+code{
+  font-size: 130%;
+}
+.color{
+  border: 7px solid darkgreen;
+  border-radius: 20px;
+  background-color: darkgreen;
+}
+#favcolor{
+  color: darkgreen;
+  background-color: springgreen;
+  font-size: 400%;
+}
+.panda{
+  background-color: maroon;
+  border: 10px ridge #610000;
+  border-radius: 0px;
+}
+img{
+  width: 500px;
+}
+h2{
+  color: red;
+}
+li{
+  color: gainsboro;
+}
